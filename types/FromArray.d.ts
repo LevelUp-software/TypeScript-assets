@@ -1,0 +1,1 @@
+export type FromArray<T> = T extends (infer U)[] ? U : T;
