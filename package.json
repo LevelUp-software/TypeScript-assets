@@ -1,10 +1,11 @@
 {
   "name": "new-typescript-assets",
-  "version": "1.0.0",
-  "description": "",
-
+  "version": "1.0.1",
+  "description": "TypeScript library with type helpers and additional aggregation functions",
   "type": "module",
-
+  "author": "LCcodder",
+  "repository": "https://github.com/LevelUp-software/TypeScript-assets",
+  "license": "MIT",
   "main": "/dist/index.js",
   "types": "/dist/index.d.ts",
   "files": [
